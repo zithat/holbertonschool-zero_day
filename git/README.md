@@ -1,1 +1,1 @@
-Readme of git
+updated readme
